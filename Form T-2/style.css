@@ -1,0 +1,50 @@
+h3{
+    padding: 20px;
+margin-left: 500px;
+font-size: 40px;
+}
+*{
+    margin: 0;
+    padding: 0;
+
+}
+div{
+    margin-bottom: 10px;
+    background-color: grey;
+    padding: 10px;
+
+}
+input[type="text"], input[type="email"], input[type="phone"]{
+    background-color: white;
+    width: 200px;
+    height: 30px;
+    padding: 0 10px;
+}
+label{
+    display: block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-bottom: 10px;
+
+}
+textarea{
+    width: 200px;
+    height: 100px;
+    padding: 0 10px;
+}
+.bt_btn input[type="submit"], input[type="reset"]{ 
+    background: rgb(42, 150, 88);
+    padding: 10px 20px;
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: none;
+}
+.phone{
+    background: rgb(42, 150, 88);
+    padding: 10px 20px;
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 90px;
+    display: block;
+}
